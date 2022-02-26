@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-todomachine/static/css/main.a48e210d.css",
+    "main.js": "/react-todomachine/static/js/main.fdcf6292.js",
+    "static/media/no_tasks.png": "/react-todomachine/static/media/no_tasks.f53df6a15efad6a30e0e.png",
+    "index.html": "/react-todomachine/index.html",
+    "static/media/delete.svg": "/react-todomachine/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/react-todomachine/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.a48e210d.css.map": "/react-todomachine/static/css/main.a48e210d.css.map",
+    "main.fdcf6292.js.map": "/react-todomachine/static/js/main.fdcf6292.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a48e210d.css",
+    "static/js/main.fdcf6292.js"
+  ]
+}
